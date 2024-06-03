@@ -1,4 +1,3 @@
-# Backend Engineer Portfolio
 ## About Me
 Hi there! I'm Omar G, a Backend Engineer with a passion for building robust and scalable systems. I specialize in JavaScript, Python, and PostgreSQL, and have experience working with a variety of frameworks and technologies including React, Node.js, Django, Vue.js, Docker, and Ansible.
 
